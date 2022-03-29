@@ -5,9 +5,9 @@ name: Oti App
 
 on:
   push:
-    branches: [ main ]
+    branches: [ ark-232 ]
   pull_request:
-    branches: [ main ]
+    branches: [ ark-232 ]
 
 jobs:
   build:
